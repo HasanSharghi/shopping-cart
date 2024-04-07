@@ -1,1 +1,1 @@
-# shopping-cart
+A store page that has the possibility to add a large number of products and can calculate the total cost and display it to the user and has the possibility to delete the selected product. React JS framework is used in this project
